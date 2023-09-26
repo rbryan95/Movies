@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "EMYm/BqrsDd2piatfnk5Xpy/9q/KKgPDqzlvEIadk6mTdWbytyRq9o3Kw/lcuRsFFBuSkkZz9tg2nDZoqbIjQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bryan\\Documents\\Net\\Movies\\Movies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bryan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bryan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bryan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bryan\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bryan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bryan\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bryan\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Bryan\\.nuget\\packages\\nlog\\5.0.2\\nlog.5.0.2.nupkg.sha512",
+    "C:\\Users\\Bryan\\.nuget\\packages\\nlog.extensions.logging\\5.0.2\\nlog.extensions.logging.5.0.2.nupkg.sha512",
+    "C:\\Users\\Bryan\\.nuget\\packages\\nlog.web.aspnetcore\\5.1.1\\nlog.web.aspnetcore.5.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
